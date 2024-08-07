@@ -1,0 +1,25 @@
+body{
+    height:100vh ;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(63, 60, 60);
+}
+div{
+ align-content: center;
+}
+table{
+    width: 700px;
+    height: 180px;
+    border-spacing:3px ;
+    color: white;
+    border-radius: 10px;
+}
+td{
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    border-radius: 6px;
+}
+td:hover{
+    background-color: rgb(81, 82, 82);
+}
